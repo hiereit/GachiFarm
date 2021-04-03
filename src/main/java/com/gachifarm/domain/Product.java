@@ -1,6 +1,7 @@
 package com.gachifarm.domain;
 
 public class Product {
+	//product ¼öÁ¤
 	int product_id;
 	int saleType_id;
 	int category_id;
